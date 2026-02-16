@@ -1,6 +1,6 @@
 # TelSent — Sentiment Classifier (Python + ML)
 
-A clean, resume-friendly ML project demonstrating:
+An ML project demonstrating:
 - Text preprocessing
 - TF‑IDF features
 - Logistic Regression classifier
